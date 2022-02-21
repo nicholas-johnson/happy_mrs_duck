@@ -1,0 +1,9 @@
+body {
+    background:lightgreen;
+}
+.duck {
+    position: absolute;
+}
+img {
+    width: 100px;
+}
